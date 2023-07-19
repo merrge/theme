@@ -1,9 +1,9 @@
 :root {
-  --bg: #111111;
+  --bg: #171717;
   --bg2: #302f2f;
-  --sec: #2e026c;
-  --links: #2e026c;
-  --home-icon: url(https://merr.ge/lib/i01_c65852b3154e442fa85d3a5405ee127a-26314123061.png);
+  --sec: #c20000;
+  --links: #c20000;
+  --home-icon: url();
   --emoji-picker-color: 210deg;
 }
 
@@ -367,7 +367,6 @@
 .avatar-2e8lTP:hover.clickable-31pE3P:hover {
   filter: drop-shadow(0 0 8px);
   color: var(--sec);
-  transform: scale(1.2) rotate(360deg); 
   transition: width 0.5s ease, height 0.5s ease, transform 0.5s ease;
 }
 
