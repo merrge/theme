@@ -1,4 +1,5 @@
 :root {
+  --bg0: #070707;
   --bg: #171717;
   --bg2: #302f2f;
   --sec: #c20000;
@@ -89,7 +90,7 @@
 }
 
 .wrapper-2RrXDg {
-  background-color: var(--sec);
+  background-color: var(--bg0);
   border: none;
 }
 .wrapper-2RrXDg:hover,
