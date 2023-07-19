@@ -4,7 +4,7 @@
   --bg2: #302f2f;
   --sec: #c20000;
   --links: #c20000;
-  --home-icon: url();
+  --home-icon: url(https://merr.ge/lib/11528994306.png);
   --emoji-picker-color: 210deg;
 }
 
@@ -848,6 +848,9 @@ padding-right: 8px;
 .formTitle-2YQyhj {
   color: var(--sec);
 }
+.link-1_kTxV{
+  color: var(--bg)
+}
 .sampleLink-5BWNy9 {
   color: var(--links);
 }
@@ -1264,7 +1267,9 @@ button[aria-label="Send a gift"] {
 .icon-1GbPE7, .name-2m3Cms {
   color: var(--sec);
 }
-
+.name-28HaxV{
+  color: var(--sec);
+}
 .tierLock-1eabw6 {
   color: var(--sec);
 }
