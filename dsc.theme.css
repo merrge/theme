@@ -647,9 +647,6 @@ padding-right: 8px;
   color: var(--bg2);
   background-color: var(--sec);
 }
-.tabBar-2hXqzU {
-  background-color: var(--bg);
-}
 .top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG,
 .top-K_jibn .themed-2-lozF.item-3XjbnG:active {
   border-bottom-color: var(--sec);
@@ -769,6 +766,12 @@ padding-right: 8px;
   background-color: var(--sec);
   color: var(--bg);
   font-weight: bold;
+}
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx {
+  background-color: var(--bg2);
+}
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover {
+  background-color: var(--bg2);
 }
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
