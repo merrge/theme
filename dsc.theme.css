@@ -8,6 +8,14 @@
   --emoji-picker-color: 210deg;
 }
 
+.#app-mount > div.appAsidePanelWrapper-ev4hlp > div.notAppAsidePanel-3yzkgB > div:nth-child(3) > div.layer-fP3xEz > div > div > div > div > div > div > div.flex-2S1XBF.flex-3BkGQD.horizontalReverse-60Katr.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz.footer-IubaaS.footer-3ie9JP.footerSeparator-3U8YsT{
+background-color: var(--bg);
+}
+
+element.style{
+background-color: var(--bg);
+}
+
 .bg-1QIAus,
 .container-2RRFHK {
   background-color: var(--bg);
@@ -1389,7 +1397,7 @@ button[aria-label="Send a gift"] {
 
 .input-2m5SfJ,
 .medium-2NClDM.iconLayout-3Bjizv {
-  background-color: var(--sec);
+  background-color: var(--bg2);
   border-radius: 10px;
 }
 
@@ -1416,8 +1424,8 @@ button[aria-label="Send a gift"] {
 }
 
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
-  background-color: var(--sec);
-  color: var(--bg);
+  background-color: var(--bg2);
+  color: var(--sec);
   border-radius: 10px;
 }
 
