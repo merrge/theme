@@ -815,6 +815,12 @@ padding-right: 8px;
 .theme-dark .wrapper-1ZcZW- {
   background-color: var(--sec);
   color: var(--bg);
+  opacity: 25%;
+}
+.theme-dark .wrapper-1ZcZW-::hover {
+  background-color: var(--sec);
+  color: var(--bg);
+  opacity: 100%;
 }
 .container-36u7Lw {
   background-color: var(--bg);
